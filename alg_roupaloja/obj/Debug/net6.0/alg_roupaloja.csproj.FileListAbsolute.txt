@@ -1,0 +1,17 @@
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\alg_roupaloja.exe
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\alg_roupaloja.deps.json
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\alg_roupaloja.runtimeconfig.json
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\alg_roupaloja.dll
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\alg_roupaloja.pdb
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.csproj.AssemblyReference.cache
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.AssemblyInfoInputs.cache
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.AssemblyInfo.cs
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.csproj.CoreCompileInputs.cache
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.dll
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\refint\alg_roupaloja.dll
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.pdb
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.genruntimeconfig.cache
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\ref\alg_roupaloja.dll
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\bin\Debug\net6.0\ConsoleTables.dll
+D:\Iago\Visual Studio\Projetos\alg_roupaloja\alg_roupaloja\obj\Debug\net6.0\alg_roupaloja.csproj.CopyComplete
